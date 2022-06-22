@@ -53,6 +53,9 @@ namespace Getha_Systems.API.Controllers
             _userService.Delete(id);
             return Ok(new { message = "Deletado" });
         }
-
+        public IActionResult Lista(ListaDTODados listaDTO)
+        {
+            return Ok(listaDTO);
+        }
     }
 }
