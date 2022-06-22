@@ -1,0 +1,12 @@
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Geta_Systems.API.Entities\bin\Debug\net6.0\Geta_Systems.API.Entities.deps.json
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Geta_Systems.API.Entities\bin\Debug\net6.0\Geta_Systems.API.Entities.dll
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Geta_Systems.API.Entities\bin\Debug\net6.0\Geta_Systems.API.Entities.pdb
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Geta_Systems.API.Entities\obj\Debug\net6.0\Geta_Systems.API.Entities.csproj.AssemblyReference.cache
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Geta_Systems.API.Entities\obj\Debug\net6.0\Geta_Systems.API.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Geta_Systems.API.Entities\obj\Debug\net6.0\Geta_Systems.API.Entities.AssemblyInfoInputs.cache
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Geta_Systems.API.Entities\obj\Debug\net6.0\Geta_Systems.API.Entities.AssemblyInfo.cs
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Geta_Systems.API.Entities\obj\Debug\net6.0\Geta_Systems.API.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Geta_Systems.API.Entities\obj\Debug\net6.0\Geta_Systems.API.Entities.dll
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Geta_Systems.API.Entities\obj\Debug\net6.0\refint\Geta_Systems.API.Entities.dll
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Geta_Systems.API.Entities\obj\Debug\net6.0\Geta_Systems.API.Entities.pdb
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Geta_Systems.API.Entities\obj\Debug\net6.0\ref\Geta_Systems.API.Entities.dll

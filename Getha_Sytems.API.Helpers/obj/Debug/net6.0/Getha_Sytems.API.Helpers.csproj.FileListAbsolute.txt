@@ -1,0 +1,15 @@
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.Helpers\obj\Debug\net6.0\Getha_Sytems.API.Helpers.csproj.AssemblyReference.cache
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.Helpers\obj\Debug\net6.0\Getha_Sytems.API.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.Helpers\obj\Debug\net6.0\Getha_Sytems.API.Helpers.AssemblyInfoInputs.cache
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.Helpers\obj\Debug\net6.0\Getha_Sytems.API.Helpers.AssemblyInfo.cs
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.Helpers\obj\Debug\net6.0\Getha_Sytems.API.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.Helpers\bin\Debug\net6.0\Getha_Sytems.API.Helpers.deps.json
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.Helpers\bin\Debug\net6.0\Getha_Sytems.API.Helpers.dll
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.Helpers\bin\Debug\net6.0\Getha_Sytems.API.Helpers.pdb
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.Helpers\bin\Debug\net6.0\Geta_Systems.API.Entities.dll
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.Helpers\bin\Debug\net6.0\Geta_Systems.API.Entities.pdb
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.Helpers\obj\Debug\net6.0\Getha_Sytems.API.Helpers.csproj.CopyComplete
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.Helpers\obj\Debug\net6.0\Getha_Sytems.API.Helpers.dll
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.Helpers\obj\Debug\net6.0\refint\Getha_Sytems.API.Helpers.dll
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.Helpers\obj\Debug\net6.0\Getha_Sytems.API.Helpers.pdb
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.Helpers\obj\Debug\net6.0\ref\Getha_Sytems.API.Helpers.dll

@@ -1,0 +1,15 @@
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.domain.Repositories.impl\bin\Debug\net6.0\Getha_Sytems.API.domain.Repositories.impl.deps.json
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.domain.Repositories.impl\bin\Debug\net6.0\Getha_Sytems.API.domain.Repositories.impl.dll
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.domain.Repositories.impl\bin\Debug\net6.0\Getha_Sytems.API.domain.Repositories.impl.pdb
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.domain.Repositories.impl\bin\Debug\net6.0\Geta_Systems.API.Entities.dll
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.domain.Repositories.impl\bin\Debug\net6.0\Geta_Systems.API.Entities.pdb
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.domain.Repositories.impl\obj\Debug\net6.0\Getha_Sytems.API.domain.Repositories.impl.csproj.AssemblyReference.cache
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.domain.Repositories.impl\obj\Debug\net6.0\Getha_Sytems.API.domain.Repositories.impl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.domain.Repositories.impl\obj\Debug\net6.0\Getha_Sytems.API.domain.Repositories.impl.AssemblyInfoInputs.cache
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.domain.Repositories.impl\obj\Debug\net6.0\Getha_Sytems.API.domain.Repositories.impl.AssemblyInfo.cs
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.domain.Repositories.impl\obj\Debug\net6.0\Getha_Sytems.API.domain.Repositories.impl.csproj.CoreCompileInputs.cache
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.domain.Repositories.impl\obj\Debug\net6.0\Getha_Sytems.API.domain.Repositories.impl.csproj.CopyComplete
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.domain.Repositories.impl\obj\Debug\net6.0\Getha_Sytems.API.domain.Repositories.impl.dll
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.domain.Repositories.impl\obj\Debug\net6.0\refint\Getha_Sytems.API.domain.Repositories.impl.dll
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.domain.Repositories.impl\obj\Debug\net6.0\Getha_Sytems.API.domain.Repositories.impl.pdb
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Sytems.API.domain.Repositories.impl\obj\Debug\net6.0\ref\Getha_Sytems.API.domain.Repositories.impl.dll

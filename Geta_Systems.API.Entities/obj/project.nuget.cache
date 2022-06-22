@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KAnyJfZDraXbJB+s6FD6vvMJi/ccm4Y9X1KOyj87z+HO8Zm1Og/WJGMISGs2FMtsr4Wxd+W4stXAN9zKp92pxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marinês\\Documents\\dev\\Getha_Sytems\\Geta_Systems.API.Entities\\Geta_Systems.API.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marinês\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Marinês\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

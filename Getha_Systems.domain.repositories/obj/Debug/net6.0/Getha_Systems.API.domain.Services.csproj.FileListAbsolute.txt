@@ -1,0 +1,15 @@
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Systems.domain.repositories\bin\Debug\net6.0\Getha_Systems.API.domain.Services.deps.json
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Systems.domain.repositories\bin\Debug\net6.0\Getha_Systems.API.domain.Services.dll
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Systems.domain.repositories\bin\Debug\net6.0\Getha_Systems.API.domain.Services.pdb
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Systems.domain.repositories\bin\Debug\net6.0\Geta_Systems.API.Entities.dll
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Systems.domain.repositories\bin\Debug\net6.0\Geta_Systems.API.Entities.pdb
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Systems.domain.repositories\obj\Debug\net6.0\Getha_Systems.API.domain.Services.csproj.AssemblyReference.cache
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Systems.domain.repositories\obj\Debug\net6.0\Getha_Systems.API.domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Systems.domain.repositories\obj\Debug\net6.0\Getha_Systems.API.domain.Services.AssemblyInfoInputs.cache
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Systems.domain.repositories\obj\Debug\net6.0\Getha_Systems.API.domain.Services.AssemblyInfo.cs
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Systems.domain.repositories\obj\Debug\net6.0\Getha_Systems.API.domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Systems.domain.repositories\obj\Debug\net6.0\Getha_Systems.API.domain.Services.csproj.CopyComplete
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Systems.domain.repositories\obj\Debug\net6.0\Getha_Systems.API.domain.Services.dll
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Systems.domain.repositories\obj\Debug\net6.0\refint\Getha_Systems.API.domain.Services.dll
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Systems.domain.repositories\obj\Debug\net6.0\Getha_Systems.API.domain.Services.pdb
+C:\Users\Marinês\Documents\dev\Getha_Sytems\Getha_Systems.domain.repositories\obj\Debug\net6.0\ref\Getha_Systems.API.domain.Services.dll
