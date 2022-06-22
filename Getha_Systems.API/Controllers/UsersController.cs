@@ -44,7 +44,7 @@ namespace Getha_Systems.API.Controllers
         public IActionResult Update(int id, UpdateRequest model)
         {
             _userService.Update(id, model);
-            return Ok(new { message = "Update" });
+            return Ok(new { message = "Atualizado" });
         }
 
         [HttpDelete("{id}")]
