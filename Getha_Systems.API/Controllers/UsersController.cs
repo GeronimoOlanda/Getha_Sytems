@@ -55,6 +55,8 @@ namespace Getha_Systems.API.Controllers
         }
         public IActionResult Lista(ListaDTODados listaDTO)
         {
+            var teste1 = listaDTO.Nome;
+            var teste2 = listaDTO.Idade;
             return Ok(listaDTO);
         }
     }
