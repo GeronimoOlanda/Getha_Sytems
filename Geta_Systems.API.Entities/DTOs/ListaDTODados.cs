@@ -10,5 +10,6 @@ namespace Geta_Systems.API.Entities.DTOs
     {
         public string Nome { get; set; }
         public string Idade { get; set; }
+        public int NumeroAcesso { get; set; }
     }
 }
