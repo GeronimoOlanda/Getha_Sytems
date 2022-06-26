@@ -59,5 +59,11 @@ namespace Getha_Systems.API.Controllers
             var teste2 = listaDTO.Idade;
             return Ok(listaDTO);
         }
+
+        public IActionResult buscaPorNumero(ListaDTODados listaDTO)
+        {
+            var retornaBusca = _userService.GetById(listaDTO.NumeroAcesso);
+            return Ok(retornaBusca);
+        }
     }
 }
